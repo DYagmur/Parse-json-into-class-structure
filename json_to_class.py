@@ -82,3 +82,6 @@ print("Sum numeric:", root_item.sum_numeric())  # Should output: 5
 print("Get by name 'item2':", root_item.get_by_name('item2'))  # Should output: 'a string'
 print("Get by value 5:", root_item.get_by_value(5))  # Should output: 'item3'
 print("Access using item['item3']:", root_item["item3"])  # Should output: Item(name=item3, value=5)
+
+
+##done!
